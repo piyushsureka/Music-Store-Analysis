@@ -4,8 +4,8 @@ In this project, we embark on a comprehensive analysis of a music store's databa
 
 # Database and Tools
 
-Postgre SQL
-PgAdmin4
+1) Postgre SQL
+2) PgAdmin4
 
 Schema- Music Store Database
 
